@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bellatrixxie
-- 👀 I’m interested in ... full-stack development.
-- 🌱 I’m currently learning ... how to train other programmers at Sparta Academy.
-- 💞️ I’m looking for my fellow trainers, trainees and anyone interested in teaching/learning.
+- 👀 I’m interested in ... full-stack development and automation testing.
+- 🌱 I’m currently learning ... how to train other software engineers at Sparta Academy, while continuing to expand my own skillset.
+- 💞️ I’m looking for developers, automation testers and other trainers for collaboration.
 - 📫 How to reach me ... ljctozer@gmail.com
 
 <!---
